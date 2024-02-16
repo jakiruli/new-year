@@ -1,0 +1,44 @@
+.header {
+    background-color: wheat;
+    background-image: url(../images/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    left: 140px;
+    right: -140px;
+    top: 50px;
+    bottom: -50px;
+
+}
+.spans{
+       font-size: medium;
+}
+.header-tittle{
+    /* text-align: center;
+    color: white;
+    font-size: larger;
+    padding-top: 100px; */
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+padding-top: 80px;
+text-align: center;
+}
+.main-section{
+    /* Group 50 */
+position: absolute;
+width: 802.9px;
+height: 806px;
+left: 399px;
+right: 398.1px;
+top: 770px;
+bottom: 5759px;
+text-align: center;
+}
+.offer{
+    color: red;
+    font-weight: bold;
+}
+.deal{
+    color: red;
+}

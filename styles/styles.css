@@ -26,7 +26,7 @@ text-align: center;
 }
 .main-section{
     /* Group 50 */
-position: absolute;
+
 width: 802.9px;
 height: 806px;
 left: 399px;
@@ -41,4 +41,19 @@ text-align: center;
 }
 .deal{
     color: red;
+}
+.background-images{
+    background-image: url(../images/Vectorrr.png);
+    /* Vector */
+background-repeat: no-repeat;
+width: 1320px;
+height: 600px;
+left: 10.61%;
+right: -10.61%;
+top: 282.67%;
+bottom: -282.67%;
+
+}
+.background-images{
+    display: flex;
 }
